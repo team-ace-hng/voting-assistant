@@ -1,4 +1,4 @@
-# voting-assistant
+# You Choose
 A voting assistant app
 
 Current collaborators:
@@ -8,4 +8,3 @@ Current collaborators:
 @silassilasm
 @thenameisdrey
 @vhiktordom
-
