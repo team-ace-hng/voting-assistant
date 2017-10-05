@@ -36,7 +36,9 @@
     padding-right: 30px;
     font-size: 30px;
 }
-
+.navbar {
+    margin-bottom: 0px;
+}
 section {
     height: 490px;
     background-color: #ccc;
@@ -92,16 +94,18 @@ div.img-wrapper {
     right: 0;
 }
 
-.top {
-    width: 70%;
-    -ms-flex-preferred-size: 100%;
-    flex-basis: 100%;
-    padding: 0 2em;
-    text-align: left;
+.main {
+    background-color: #77b198;
+    color: white;
+    padding: 50px 0;
+    background-image: url(../assets/vote.png);
+    background-size: inherit;
+    background-position: right;
+    background-repeat: no-repeat;
 }
-
 .top.text {
     font-size: 18px;
+    color: white;
 }
 
 .top-div,
@@ -117,23 +121,23 @@ div.img-wrapper {
     height: 100vh;
 }
 
+.article {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
 #top {
     padding: 40vh 0 40vh 10vh;
 }
 
 .btn {
-    height: 71px;
-    width: 414px;
-    font-size: 0.8em;
-    display: inline-block;
-    padding: .7em 2.5em;
+    font-size: 2.5em;
     color: white;
-    font-weight: 600;
     text-decoration: none;
     border-radius: 10px;
     background-color: black;
-    margin: 3vh 40vh;
-    align-items: center;
+    margin: 30px 0;
+    padding: 10px 60px;
 }
 
 .content {
@@ -233,7 +237,6 @@ p {
     border: none;
     background-color: inherit;
 }
-
 
 /******************/
 /*                */
