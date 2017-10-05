@@ -1,0 +1,22 @@
+Q1. Should the government look to other forms of renewable energy?
+Agree [APC,KOWA,UPP,APDA,NNPP,PDP]
+Neutral [DPC,NCP]
+DisAgree []
+
+Q2. should import waivers be granted for power generation equipment?
+should tax breaks be offered for companies invested in power generation plants?
+Agree [KOWA]
+Neutral [APC,UPP,APDA,NNPP,PDP,DPC,NCP]
+DisAgree []
+
+Q3 Do you think gas resources being flared should instead be harnessed as an energy source?
+Agree[NNPP,PDP]
+Neutral[APC,APDA,UPP,KOWA,DPC,NCP]
+Disagree[]
+
+Q4. Should efforts be made to increase the capacity of our nations refineries?
+Agree [NNPP,KOWA]
+Neutral []
+DisAgree []
+
+
