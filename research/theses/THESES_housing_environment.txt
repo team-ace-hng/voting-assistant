@@ -1,0 +1,10 @@
+Q1 Should the government fund a research for new building technologies?
+Agree[APC,NNPP,DPC,UPP]
+Neutral[APDA]
+Disagree[]
+
+should the government enact a national mortgage system to provide lending at single digit rates?
+Q2. Should the government ensure that twice the number of felled trees are replanted by the timber workers?
+Agree [APC,APDA,NNPP]
+Neutral [PDP,UPP]
+DisAgree []
