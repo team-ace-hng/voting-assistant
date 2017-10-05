@@ -1,0 +1,30 @@
+Q1. should all adults between the ages of 18 and 30 be made to partake in compulsory military training?
+Agree [NPC,]
+Neutral [APC,KOWA,UPP,APDA,NNPP,PDP]
+DisAgree []
+
+Q2. should neighboring countries be engaged to leverage on their assets?
+Agree [KOWA]
+Neutral [APC,NPC,UPP,APDA,NNPP,PDP]
+DisAgree []
+
+Q3.should the conditions of our police barracks be improved?
+Agree [KOWA]
+Neutral [APC,NPC,UPP,APDA,NNPP,PDP]
+DisAgree []
+
+Q4. should investments be made to provide better communication equipments for security agencies?
+Agree [KOWA, APDA,]
+Neutral [APC,NPC,UPP,NNPP,PDP]
+DisAgree []
+
+Q5. should actions be taken to curb brutality from armed forces?
+Agree [APC,KOWA,NPC,APDA,NNPP,UPP,PDP]
+Neutral []
+DisAgree []
+
+Q6 Should Policemen live among the communities they are trained to protect as opposed to accommodation of Policemen in Barracks?
+Agree[NNPP,UPP,]
+Neutral[NPC,PDP]
+Disagree[APDA,KOWA,APC]
+
