@@ -1,0 +1,24 @@
+Q1. Should universal basic education be enforced? 
+Agree [APC,NCP,DPC,NNPP, PDP]
+Neutral [KOWA,APDA]
+DisAgree []
+
+Q2. Do you think the education sector deserves at least 15% annual budget?
+Agree [APC,NCP,KOWA,NNPP]
+Neutral [DPC,PDP,APDA]
+DisAgree []
+
+Q3. Is it necessary to allocate more spaces for science and technology related courses in universities?
+Agree[APC,APDA,NNPP,PDP]
+Neutral[NCP,KOWA,DPC,]
+Disagree[]
+
+Q4. Should bursary be given to students in tertiary institutions
+Agree [DPC,NNPP,NCP,APC,]
+Neutral [PDP,KOWA,APDA]
+DisAgree []
+
+Q5. should guidance and counselling services be provided in secondary schools?
+Agree [DPC,NNPP,APC]
+Neutral [NCP,PDP,KOWA,APDA]
+DisAgree []
