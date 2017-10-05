@@ -28,3 +28,8 @@ Agree[NNPP,UPP,]
 Neutral[NPC,PDP]
 Disagree[APDA,KOWA,APC]
 
+Q7 Are you in support of the seceession of the IPOB?
+Agree[]
+Neutral[]
+Disagree[APC,APDA,DPC,KOWA,NCP,NNPP,PDP,UPP]
+
