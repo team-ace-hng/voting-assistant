@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab');
-
 /* main style sheet */
 
 
@@ -82,7 +80,7 @@ section {
 		border-radius: 10px;
 		color: #fff;		
 	}
-    ul{float:right;}
+    /* ul{float:right;} */
 	section{
 		height:490px;
 		background-color: #ccc;
@@ -106,9 +104,25 @@ section {
 
 
 /******************/
-
+html, body {
+    margin: 0;
+    height: 100%;
+}
 body {
     font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -150px;
+}
+
+footer,
+.push {
+  height: 150px;
+  /* .push must be the same height as .footer */
 }
 
 .top-div {
@@ -226,7 +240,7 @@ p {
 
 .question-container {
     background-color: #F2F2F2;
-    width: 450px;
+    width: 500px;
     /*height: 500px;*/
     padding: 20px;
     margin: 30px auto;
@@ -288,7 +302,7 @@ p {
     justify-content: space-between;
 }
 
-button {
+.question-navs button {
     border: none;
     background-color: inherit;
 }
@@ -330,7 +344,7 @@ button {
     height: 8vh;
     
 }
-button, #start{
+#start{
     font-family: Roboto;
     font-style: "bold";
     font-size:24px;
@@ -340,7 +354,11 @@ button, #start{
 .policy-btn .first-btn{
     margin-right: 0;
 }
-button.policy-btn{
+.policy-btn{
+    font-family: Roboto;
+    font-style: "bold";
+    font-size:24px;
+    line-height: 28px;
     margin:auto 10px;
     text-align: left; 
     border-radius: 10px;

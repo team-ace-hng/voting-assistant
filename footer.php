@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="css/main.css"> 
+<div class='push'></div>
+</div> <!-- end content wrapper -->
 <footer id="footer">
       	
       	<div class="container-fluid" >
