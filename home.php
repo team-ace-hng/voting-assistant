@@ -8,7 +8,7 @@
       <div class="col-md-6">
         <h1>Which political party represents your interests?</h1>
         <p class="top text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum odio enim, blandit quis leo ac, condimentum condimentum eros. Vestibulum eleifend felis ut turpis imperdiet placerat. In egestas elit et faucibus pretium.</p>
-        <button name="submit" type="submit" value="submit" class="btn btn-lg">TAKE QUIZ</button>
+        <a href="questions.php"><button name="submit" type="submit" value="submit" class="btn btn-lg">TAKE QUIZ</button></a>
       </div> 
       <div class="col-md-6">
         <!-- <img src="./assets/vote.png" alt="where is my image" width="auto" height="auto"> -->

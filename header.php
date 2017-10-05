@@ -19,13 +19,13 @@
 	<nav class="navbar navbar-inverse">
 	    <div class="container-fluid" >
 		    <div class="navbar-header">
-		      <a class="navbar-brand" id="logo" href="#">LOGO</a>
+		      <a class="navbar-brand" id="logo" href="home.php">LOGO</a>
 		    </div>
 		    
 		    <ul class="nav navbar-nav navbar-right">
-			      <li><a href="#" class="nav-list" > Home</a></li>
-			      <li><a href="#" class="nav-list"> About</a></li>
-			      <li><a href="#" class="nav-list"> FAQ</a></li>
+			      <li><a href="home.php" class="nav-list" > Home</a></li>
+			      <li><a href="home.php" class="nav-list"> About</a></li>
+			      <li><a href="home.php" class="nav-list"> FAQ</a></li>
 		    </ul>
 		</div>
     </nav>

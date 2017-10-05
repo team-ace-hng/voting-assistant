@@ -75,27 +75,9 @@ footer,
     /* .push must be the same height as .footer */
 }
 
-.top-div {
-    height: 100vh;
-    background-size: cover;
-    background-color: #77B198;
-}
-
-div.img-wrapper {
-    height: 100vh;
-    width: 300%;
-    margin: 0;
-    padding: 0;
-}
-
-.img-wrapper img {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-}
-
 .main {
     background-color: #77b198;
+    height: 80%;
     color: white;
     padding: 50px 0;
     background-image: url(../assets/vote.png);
@@ -126,10 +108,6 @@ div.img-wrapper {
     margin-bottom: 100px;
 }
 
-#top {
-    padding: 40vh 0 40vh 10vh;
-}
-
 .btn {
     font-size: 2.5em;
     color: white;
@@ -143,11 +121,6 @@ div.img-wrapper {
 .content {
     color: #A4D2B8;
 }
-
-.middle-div {
-    align-items: center;
-}
-
 
 /******************/
 /*                */
@@ -260,7 +233,7 @@ p {
 }
 
 #policy h1 {
-    color: #A4D2B8;
+    color: #77b198;
     font-weight: 100;
 }
 
@@ -305,7 +278,7 @@ p {
 }
 
 #start {
-    background-color: #77B198;
+    background-color: #77b198;
 }
 
 .start-survey {

@@ -29,7 +29,7 @@
   </div>
 </div>
 <div class="start-survey">
-  <button name="" type="" value="" id="start">Start the Survey</button>
+  <button class="btn btn-lg" name="" type="" value="" id="start">Start the Survey</button>
 </div>
 </div>
 <?php include ('footer.php'); ?>
