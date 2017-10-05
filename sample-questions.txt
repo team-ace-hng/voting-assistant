@@ -1,0 +1,61 @@
+Q1 Should the government be activily involved in the provision of storage facilities for agro produce?
+Agree[APC,NCP,KOWA,DPC,]
+Neutral[UPP,APDA,NNPP]
+Disagree[]
+
+
+Q2 Is it necessary to allocate more spaces for science and technology related courses in universities?
+Agree[APC,APDA,NNPP]
+Neutral[NCP,KOWA,DPC,]
+Disagree[]
+
+
+Q3 Should the government create incentives for diversifying exports and production?
+Agree[KOWA,DPC,APDA]
+Neutral[NNPP,APC,UPP]
+Disagree[]
+
+
+Q4 Does the NYSC program need restructuring?
+Agree[NNPP,]
+Neutral[APC,KOWA,UPP,DPC]
+Disagree[]
+
+
+Q5 Should Policemen live among the communities they are trained to protect as opposed to accommodation of Policemen in Barracks?
+Agree[NNPP,UPP,]
+Neutral[]
+Disagree[APDA,KOWA,APC]
+
+
+Q6 Do you think gas resources being flared should instead be harnessed as an energy source?
+Agree[NNPP,]
+Neutral[APC,APDA,UPP]
+Disagree[]
+
+
+Q7 Are you in support of the seceession of the IPOB?
+Agree[]
+Neutral[]
+Disagree[ALL PARTIES]
+
+Q8 Should the government fund a research for new building technologies?
+Agree[APC,NNPP]
+Neutral[UPP,APDA]
+Disagree[]
+
+
+Q9 Should the National Minimum Wage be raised?
+Agree[NNPP,APDA]
+Neutral[APC,KOWA,NCP,UPP]
+Disagree[]
+
+
+Q10 Does the health sector need a total overhaul?
+Agree[DPC,]
+Neutral[APC,NCP,UPP,APDA,NNPP]
+Disagree[]
+
+
+
+
