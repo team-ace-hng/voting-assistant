@@ -1,0 +1,19 @@
+Q1 Does the health sector need a total overhaul?
+Agree[DPC,]
+Neutral[APC,NCP,UPP,APDA,NNPP,PDP]
+Disagree[]
+
+Q2. should pregnant women, children, students and senior citizens receive free healthcare?
+Agree [DPC,APC,PDP]
+Neutral [NCP,UPP,APDA,NNPP]
+DisAgree []
+
+Q3. should sanitary and health inspectors be reintroduced to environmental sanitation exercises?
+Agree [NNPP, PDP,NNPP,UPP]
+Neutral []
+DisAgree []
+
+Q4. Should medical drugs and supplies be produced locally?
+Agree [PDP,APC]
+Neutral [DPC,NCP,UPP,APDA,NNPP,PDP]
+DisAgree []
