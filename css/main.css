@@ -1,24 +1,10 @@
 /* main style sheet */
-
-
 /******************/
-
-
 /*                */
-
-
 /*    header      */
-
-
 /*      and       */
-
-
 /*    footer      */
-
-
 /*                */
-
-
 /******************/
 
 #logo {
@@ -44,91 +30,52 @@
     color: #fff;
 }
 
+.navbar-right {
+    margin-right: 80px;
+    padding: 10px 20px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
 section {
     height: 490px;
     background-color: #ccc;
     padding-top: 10px;
 }
 
-
-
 /******************/
- /*                */
- /*    header      */
- /*      and       */
- /*    footer      */
- /*                */
- /******************/
-
-
-#logo{
-		margin-left:80px;
-		margin-top: 10px;
-		font-size: 50px;
-	}
-	.navbar-right{
-		margin-right: 80px;
-		padding: 10px 20px;
-		padding-right: 30px;
-		font-size: 30px;
-	}
-	.nav-list{
-		margin-right: 70px;
-	}	
-	#footer{
-		background-color: #000;
-		border-radius: 10px;
-		color: #fff;		
-	}
-    /* ul{float:right;} */
-	section{
-		height:490px;
-		background-color: #ccc;
-		padding-top: 10px;
-	}
-
-
 /*                */
-
-
-/*                */
-
-
 /*      home      */
-
-
 /*                */
-
-
 /*                */
-
-
 /******************/
-html, body {
+
+html,
+body {
     margin: 0;
     height: 100%;
 }
+
 body {
     font-family: 'Roboto', sans-serif;
 }
 
 .wrapper {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: 0 auto -150px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -150px;
 }
 
 footer,
 .push {
-  height: 150px;
-  /* .push must be the same height as .footer */
+    height: 150px;
+    /* .push must be the same height as .footer */
 }
 
 .top-div {
     height: 100vh;
     background-size: cover;
-
     background-color: #77B198;
 }
 
@@ -146,7 +93,6 @@ div.img-wrapper {
 }
 
 .top {
-
     width: 70%;
     -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
@@ -199,34 +145,15 @@ div.img-wrapper {
 }
 
 
-
+/******************/
+/*                */
+/*    Questions   */
+/*       Page     */
+/*                */
 /******************/
 
-
-/*                */
-
-
-/*                */
-
-
-/*      home      */
-
-
-/*                */
-
-
-/*                */
-
-
-/******************/
- /*                */
- /*                */
- /*    Questions   */
- /*       Page     */
- /*                */
- /******************/
-.survey{
-     height: 100vh;
+.survey {
+    height: 100vh;
 }
 
 
@@ -306,72 +233,83 @@ p {
     border: none;
     background-color: inherit;
 }
-/******************/
- /*                */
- /*                */
- /*     Policy     */
- /*    Selection   */
- /*                */
- /******************/
 
- #policy{
+
+/******************/
+/*                */
+/*                */
+/*     Policy     */
+/*    Selection   */
+/*                */
+/******************/
+
+#policy {
     height: 100vh;
-    width:70%;
-    margin:5% auto 0 auto;
- }
- #policy-container{
-     display: block;
-     align-items: center;
-     margin:auto;
-    padding:20px 0;
+    width: 70%;
+    margin: 5% auto 0 auto;
 }
-#policy h1{
-            color: #A4D2B8;
-            font-weight: 100;
-        }
-#policy h3{
-            font-weight: 100;
-            width:40%;
-            line-height: 1.1em;
-        }
-.policy-list{
-    width:100%;
-    margin:10px auto;
+
+#policy-container {
+    display: block;
+    align-items: center;
+    margin: auto;
+    padding: 20px 0;
+}
+
+#policy h1 {
+    color: #A4D2B8;
+    font-weight: 100;
+}
+
+#policy h3 {
+    font-weight: 100;
+    width: 40%;
+    line-height: 1.1em;
+}
+
+.policy-list {
+    width: 100%;
+    margin: 10px auto;
     height: auto;
 }
-.policy-btn, #start{
+
+.policy-btn,
+#start {
     width: 43vh;
     height: 8vh;
-    
 }
-#start{
+
+#start {
     font-family: Roboto;
     font-style: "bold";
-    font-size:24px;
+    font-size: 24px;
     line-height: 28px;
-    
 }
-.policy-btn .first-btn{
+
+.policy-btn .first-btn {
     margin-right: 0;
 }
-.policy-btn{
+
+.policy-btn {
     font-family: Roboto;
     font-style: "bold";
-    font-size:24px;
+    font-size: 24px;
     line-height: 28px;
-    margin:auto 10px;
-    text-align: left; 
+    margin: auto 10px;
+    text-align: left;
     border-radius: 10px;
     background-color: #EAF0EC;
 }
-#start{
+
+#start {
     background-color: #77B198;
 }
-.start-survey{
-     width: 50%;
+
+.start-survey {
+    width: 50%;
     height: 8vh;
-    margin:auto;
+    margin: auto;
     align-items: center;
     text-align: center;
-    padding:10% 0 0 0;
+    padding: 10% 0 0 0;
 }
