@@ -1,4 +1,4 @@
-**You Choose**
+#You Choose#
 A voting assistant app
 
 Current collaborators:
