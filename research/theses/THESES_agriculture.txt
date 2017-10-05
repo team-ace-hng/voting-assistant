@@ -1,0 +1,59 @@
+Q1. should more money be put into creating more medium/commercial scale farmers as opposed to subsistence farmers?
+Agree [APC,KOWA]
+Neutral [NCP,UPP,DPC,APDA,NNPP,PDP]
+DisAgree []
+
+Q2. should the government create a body tasked with improving nutrition and eliminating food borne hazard?
+Agree [APC,APDA]
+Neutral []
+DisAgree [KOWA,NCP,UPP,DPC,NNPP,PDP]
+
+Q3. should a major portion of national budget go to food crop and livestock production?
+Agree [APC,NCP,]
+Neutral [KOWA,UPP,DPC,APDA,NNPP,PDP]
+DisAgree []
+
+Q3. should farmers be provided loans at nominal interest rates?
+Agree [APC, NCP, KOWA,DPC, NNPP]
+Neutral [UPP,APDA, PDP]
+DisAgree []
+
+Q4. should the government be activily involved in the provision of storage facilities for agro produce?
+Agree [APC,NCP,DPC,NNPP,KOWA]
+Neutral [UPP,APDA,PDP]
+DisAgree []
+
+Q5. should the government invest in providing irrigation mechanisms?
+Agree [NCP,UPP,DPC,]
+Neutral [APC,NNPP,KOWA,APDA,PDP]
+DisAgree []
+
+Q6. should food production be just to meet the food needs of the people rather than for exports?
+Agree [NCP]
+Neutral []
+DisAgree [APC,KOWA,UPP,DPC,APDA,NNPP,PDP]
+
+Q7. should organic farming be promoted as opposed to the use of fertilizers?
+Agree [KOWA]
+Neutral [APC,NCP,UPP,DPC,APDA,NNPP,PDP]
+DisAgree []
+
+Q8. should priority be given to the manufacture of farm equipments as opposed to importing them?
+Agree [UPP,PDP]
+Neutral [APC,NCP,KOWA,DPC,APDA]
+DisAgree [NNPP]
+
+Q9. should improved seedlings, fertilizer, pesticides and essential agricultural products and tools be distribute to farmers?
+Agree [DPC,NNPP,PDP]
+Neutral [APC,NCP,KOWA,APDA,UPP]
+DisAgree []
+
+Q10. should Surplus produce be supplied to agro-allied industries for processing as manufactured product
+Agree [DPC,]
+Neutral [APC,NCP,NNPP,PDP,KOWA,APDA,UPP]
+DisAgree []
+
+Q11. should funding be provided for agricultural research to agricultural institutions?
+Agree [PDP,APDA]
+Neutral [APC,DPC,NCP,NNPP,KOWA,UPP]
+DisAgree []
