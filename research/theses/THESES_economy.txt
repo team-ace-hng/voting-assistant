@@ -4,8 +4,8 @@ Neutral [NCP, KOWA,UPP,DPC,APDA,NNPP,PDP]
 DisAgree []
 
 Q2. Should the government create incentives for diversifying exports and production?
-Agree [APC]
-Neutral [NCP,KOWA,UPP,DPC,APDA,NNPP,]
+Agree [APC,KOWA]
+Neutral [NCP,UPP,DPC,APDA,NNPP,]
 DisAgree []
 
 Q3 Should the government create incentives for diversifying exports and production?
@@ -20,3 +20,8 @@ Q5. should the present trend of total dependence on importation be reversed to f
 Agree [APDA,DPC]
 Neutral [APC,NCP,KOWA,UCP,NNPP,PDP]
 DisAgree []
+
+Q6 Should the National Minimum Wage be raised?
+Agree[NNPP,APDA]
+Neutral[APC,KOWA,NCP,UPP]
+Disagree[]
