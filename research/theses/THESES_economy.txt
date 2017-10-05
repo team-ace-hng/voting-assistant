@@ -1,0 +1,22 @@
+Q1. Should there be vocational training, and entrepreneurial skill acquisitions for graduates?
+Agree [APC,]
+Neutral [NCP, KOWA,UPP,DPC,APDA,NNPP,PDP]
+DisAgree []
+
+Q2. Should the government create incentives for diversifying exports and production?
+Agree [APC]
+Neutral [NCP,KOWA,UPP,DPC,APDA,NNPP,]
+DisAgree []
+
+Q3 Should the government create incentives for diversifying exports and production?
+Agree[KOWA,DPC,APDA,NNPP]
+Neutral[NCP,APC,UPP]
+Disagree[]
+
+Q4. should unemployed adults be given an allowance to cater for them?
+should public works employ workers in public sector as opposed to hiring private firms?
+
+Q5. should the present trend of total dependence on importation be reversed to full home based local production?
+Agree [APDA,DPC]
+Neutral [APC,NCP,KOWA,UCP,NNPP,PDP]
+DisAgree []
